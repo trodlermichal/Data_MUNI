@@ -17,7 +17,7 @@ _Data - latinsky datum = danost, dare = dát_
 [opendata.praha.eu](https://opendata.praha.eu)  
   
 **Otevřená data**  
-Souhrn většiny poskytovatelů otevřených dat v ČR standardizovanou formou  
+Souhrn většiny poskytovatelů otevřených dat v ČR standardizovanou formou.  
 [opendata.gov.cz](https://opendata.gov.cz)  
 
 **Open Refine**  
@@ -25,5 +25,17 @@ Free opensource tool na čištění dat. Změny formátu, uspořádání, čišt
 [openrefine.org](https://openrefine.org)  
   
 **Data Wrapper**  
-Drag-n-drop nástroj na vytváření interaktivních grafů, map a tabulek  
+Drag-n-drop nástroj na vytváření interaktivních grafů, map a tabulek.  
 [datawrapper.de](https://www.datawrapper.de)  
+
+**RAWGraphs**  
+Opensource drag-n-drop nástroj na vytváření grafů.  
+[rawgraphs.io](https://www.rawgraphs.io/)  
+
+**Data Europa**  
+Evropská open data na jednom místě  
+[data.europa.eu](https://data.europa.eu/en)  
+
+**GTFS :train2:**  
+General Transit Feed Specification, guidelines k práci s daty v hromadné dopravě  
+[gtfs.org](https://gtfs.org)  
