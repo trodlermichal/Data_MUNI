@@ -31,7 +31,12 @@ Drag-n-drop nástroj na vytváření interaktivních grafů, map a tabulek.
 **RAWGraphs**  
 Opensource drag-n-drop nástroj na vytváření grafů.  
 [rawgraphs.io](https://www.rawgraphs.io/)  
-
+  
+**Twitter NY sentiment**  
+Sentiment v New Yorku, vysoké rozlišení, rok 2013  
+[necsi.edu](https://necsi.edu/sentiment-in-new-york-city)  
+  
+### 01 Data kolem mě  
 **Data Europa**  
 Evropská open data na jednom místě  
 [data.europa.eu](https://data.europa.eu/en)  
@@ -39,3 +44,10 @@ Evropská open data na jednom místě
 **GTFS :train2:**  
 General Transit Feed Specification, guidelines k práci s daty v hromadné dopravě  
 [gtfs.org](https://gtfs.org)  
+
+**Zenodo**  
+Provozuje CERN, jedno místo na sdílení open dat a vědeckých poznatků  
+[zenodo.org](https://zenodo.org)  
+[Dataset tweetů na téma COVID-19](https://zenodo.org/records/6481639)  
+
+****
