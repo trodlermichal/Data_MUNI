@@ -1,6 +1,12 @@
 # Data_MUNI
-Poznámky z datového kurzu MUNI Brno
+Poznámky z datového kurzu MUNI Brno.  
+  
+Osnova:  
+01 Data kolem nás  
+02 Data kolem mě  
+  
 
+  
 ### 01 Data kolem nás
 _Data - latinsky datum = danost, dare = dát_  
   
