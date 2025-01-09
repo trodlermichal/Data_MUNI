@@ -2,11 +2,11 @@
 Poznámky z datového kurzu MUNI Brno.  
   
 Osnova:  
-01 Data kolem nás  
+[01 Data kolem nás](#01-Data-kolem-nás)  
 02 Data kolem mě  
-  
 
-  
+---
+
 ### 01 Data kolem nás
 _Data - latinsky datum = danost, dare = dát_  
   
@@ -35,7 +35,9 @@ Opensource drag-n-drop nástroj na vytváření grafů.
 **Twitter NY sentiment**  
 Sentiment v New Yorku, vysoké rozlišení, rok 2013  
 [necsi.edu](https://necsi.edu/sentiment-in-new-york-city)  
-  
+
+---
+
 ### 01 Data kolem mě  
 **Data Europa**  
 Evropská open data na jednom místě  
