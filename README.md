@@ -38,7 +38,12 @@ Sentiment v New Yorku, vysoké rozlišení, rok 2013
 
 ---
 
-### 01 Data kolem mě  
+### 02 Data kolem mě  
+
+**Otevřená CZ data**  
+Česká open data na jednom místě  
+[data.gov.cz](https://data.gov.cz)  
+  
 **Data Europa**  
 Evropská open data na jednom místě  
 [data.europa.eu](https://data.europa.eu/en)  
@@ -52,4 +57,36 @@ Provozuje CERN, jedno místo na sdílení open dat a vědeckých poznatků
 [zenodo.org](https://zenodo.org)  
 [Dataset tweetů na téma COVID-19](https://zenodo.org/records/6481639)  
 
-****
+**Figshare**  
+Kromě klasických papers lze sdílet videa, grafy a ostatní multimediální typy  
+[figshare.com](https://figshare.com)  
+  
+**CKAN**  
+CKAN je přívětivý pro roboty a web-crawlers, má dobrá API a metadata, je to centrální systém pro řadu dalších data-sharing webů  
+[ckan.org](https://ckan.org)  
+
+**Dataverse**  
+Opensource data repository software, pro organizace uchovávající data, v EU největší v Nizozemsku  
+[dataverse.org](https://dataverse.org)  
+
+### 03 Získávání dat
+- časté datové formáty:  
+  - Excel: .xlsx, .xls  
+  - běžné datové formáty: .csv, .tsv, .ssv  
+  - komplexnější datové formáty: .json, .xml  
+  - prostorová data: .kml, .geojson
+  - balíčky z oblasti vědeckých dat: .sav, .dta, .rdata 
+
+**ČSÚ**  
+Další významný datový zdroj v ČR  
+[csu.gov.cz](https://csu.gov.cz)  
+  
+**Data Poslanecké sněmovny a Senátu**  
+Agenda poslanců a osob, hlasování, sněmovní tisky, ústní interpelace,...  
+[psp.cz](https://www.psp.cz/sqw/hp.sqw?k=1300)  
+  
+**Veřejný rejstřík a sbírka listin**  
+Všeříkající  
+[dataor.justice.cz](https://dataor.justice.cz)  
+  
+
