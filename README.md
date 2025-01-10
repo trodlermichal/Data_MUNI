@@ -69,6 +69,8 @@ CKAN je přívětivý pro roboty a web-crawlers, má dobrá API a metadata, je t
 Opensource data repository software, pro organizace uchovávající data, v EU největší v Nizozemsku  
 [dataverse.org](https://dataverse.org)  
 
+---
+
 ### 03 Získávání dat
 - časté datové formáty:  
   - Excel: .xlsx, .xls  
@@ -88,5 +90,16 @@ Agenda poslanců a osob, hlasování, sněmovní tisky, ústní interpelace,...
 **Veřejný rejstřík a sbírka listin**  
 Všeříkající  
 [dataor.justice.cz](https://dataor.justice.cz)  
-  
 
+**Re3data**  
+Katalog repozitářů dat  
+[re3data.org](https://www.re3data.org)  
+  
+**WHO**  
+Data od WHO, roční shrnutí  
+[data.who.int](https://data.who.int)  
+  
+**UNICEF**  
+Data od UNICEFu  
+[data.unicef.org](https://data.unicef.org)  
+  
