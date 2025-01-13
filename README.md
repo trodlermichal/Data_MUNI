@@ -74,12 +74,12 @@ Opensource data repository software, pro organizace uchovávající data, v EU n
 ---
 
 ### 03 Získávání dat
-časté datové formáty:  
+Časté datové formáty:  
 - Excel: .xlsx, .xls  
-- běžné datové formáty: .csv, .tsv, .ssv  
-- komplexnější datové formáty: .json, .xml  
-- prostorová data: .kml, .geojson
-- balíčky z oblasti vědeckých dat: .sav, .dta, .rdata 
+- Běžné datové formáty: .csv, .tsv, .ssv  
+- Komplexnější datové formáty: .json, .xml  
+- Prostorová data: .kml, .geojson
+- Balíčky z oblasti vědeckých dat: .sav, .dta, .rdata 
 
 **ČSÚ**  
 Další významný datový zdroj v ČR  
@@ -119,6 +119,10 @@ WISYWYG scraper zdarma, jednoduchý na použití
 [Je webscraping legální?](https://blog.apify.com/is-web-scraping-legal/)  
 [Rozhodnutí US soudů o webscrapingu](https://techcrunch.com/2022/04/18/web-scraping-legal-court/?guccounter=1)  
   
+**PimEyes**  
+Rozpoznání obličeje na základě fotky, kdekoliv na internetu, placené  
+[pimeyes.com](https://pimeyes.com/)  
+  
 ---  
   
 ### 04 Proces analýzy dat  
@@ -137,12 +141,12 @@ Jaké atributy má výzkumná otázka?
 - **T**ime  
   
 Příprava dat  
-- získávání - hledání, stáhnutí, otevření  
-- kontrola - chybějící hodnoty, použitelnost, datové typy  
-- čištění - prázdné řádky, chybějící hodnoty, různé zápisy  
+- Získávání - hledání, stáhnutí, otevření  
+- Kontrola - chybějící hodnoty, použitelnost, datové typy  
+- Čištění - prázdné řádky, chybějící hodnoty, různé zápisy  
   
 Zpracování dat  
-- transformace - rozdělení, spojení, promazání  
-- explorace - interakce, manipulace, grafy, hledání vztahů a trendů  
-- odpovědi - porovnání s otázkou, reflexe očekávání  
-- komunikace - předání informace, vhodné grafy, prezentace  
+- Transformace - rozdělení, spojení, promazání  
+- Explorace - interakce, manipulace, grafy, hledání vztahů a trendů  
+- Odpovědi - porovnání s otázkou, reflexe očekávání  
+- Komunikace - předání informace, vhodné grafy, prezentace  
