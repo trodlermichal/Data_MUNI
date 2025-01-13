@@ -3,7 +3,9 @@ Poznámky z datového kurzu MUNI Brno.
   
 Osnova:  
 [01 Data kolem nás](#01-Data-kolem-nás)  
-02 Data kolem mě  
+[02 Data kolem mě](#02-Data-kolem-mě)  
+[03 Získávání dat](#03-Získávání-dat)  
+[04 Proces analýzy dat](#04-Proces-analýzy-dat)  
 
 ---
 
@@ -133,4 +135,14 @@ Jaké atributy má výzkumná otázka?
 - **A**chievable  
 - **R**elevant  
 - **T**ime  
-
+  
+Příprava dat  
+- získávání - hledání, stáhnutí, otevření  
+- kontrola - chybějící hodnoty, použitelnost, datové typy  
+- čištění - prázdné řádky, chybějící hodnoty, různé zápisy  
+  
+Zpracování dat  
+- transformace - rozdělení, spojení, promazání  
+- explorace - interakce, manipulace, grafy, hledání vztahů a trendů  
+- odpovědi - porovnání s otázkou, reflexe očekávání  
+- komunikace - předání informace, vhodné grafy, prezentace  
