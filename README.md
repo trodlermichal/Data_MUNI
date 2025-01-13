@@ -90,7 +90,7 @@ Agenda poslanců a osob, hlasování, sněmovní tisky, ústní interpelace,...
 **Veřejný rejstřík a sbírka listin**  
 Všeříkající  
 [dataor.justice.cz](https://dataor.justice.cz)  
-
+  
 **Re3data**  
 Katalog repozitářů dat  
 [re3data.org](https://www.re3data.org)  
@@ -103,3 +103,18 @@ Data od WHO, roční shrnutí
 Data od UNICEFu  
 [data.unicef.org](https://data.unicef.org)  
   
+**Google Datasets Search**  
+Hledání datasetů a s nimi spojených informací, prohledává metadata i obsah  
+[datasetsearch.google.com](https://datasetsearch.research.google.com)  
+  
+**Webscraper.io**  
+WISYWYG scraper zdarma, jednoduchý na použití  
+[webscraper.io](https://webscraper.io)  
+  
+**Apify**  
+Česká profi webscraping služba  
+[Apify.com](https://apify.com/)  
+[Je webscraping legální?](https://blog.apify.com/is-web-scraping-legal/)  
+[Rozhodnutí US soudů o webscrapingu](https://techcrunch.com/2022/04/18/web-scraping-legal-court/?guccounter=1)
+  
+****
