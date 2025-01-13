@@ -115,6 +115,22 @@ WISYWYG scraper zdarma, jednoduchý na použití
 Česká profi webscraping služba  
 [Apify.com](https://apify.com/)  
 [Je webscraping legální?](https://blog.apify.com/is-web-scraping-legal/)  
-[Rozhodnutí US soudů o webscrapingu](https://techcrunch.com/2022/04/18/web-scraping-legal-court/?guccounter=1)
+[Rozhodnutí US soudů o webscrapingu](https://techcrunch.com/2022/04/18/web-scraping-legal-court/?guccounter=1)  
   
-****
+---  
+  
+### 04 Proces analýzy dat  
+Princip PPDAC  
+- **P**roblem  
+- **P**lan  
+- **D**ata  
+- **A**nalysis  
+- **C**onclusion  
+  
+Jaké atributy má výzkumná otázka?  
+- **S**pecific  
+- **M**art  
+- **A**chievable  
+- **R**elevant  
+- **T**ime  
+
