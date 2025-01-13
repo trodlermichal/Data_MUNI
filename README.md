@@ -72,12 +72,12 @@ Opensource data repository software, pro organizace uchovávající data, v EU n
 ---
 
 ### 03 Získávání dat
-- časté datové formáty:  
-  - Excel: .xlsx, .xls  
-  - běžné datové formáty: .csv, .tsv, .ssv  
-  - komplexnější datové formáty: .json, .xml  
-  - prostorová data: .kml, .geojson
-  - balíčky z oblasti vědeckých dat: .sav, .dta, .rdata 
+časté datové formáty:  
+- Excel: .xlsx, .xls  
+- běžné datové formáty: .csv, .tsv, .ssv  
+- komplexnější datové formáty: .json, .xml  
+- prostorová data: .kml, .geojson
+- balíčky z oblasti vědeckých dat: .sav, .dta, .rdata 
 
 **ČSÚ**  
 Další významný datový zdroj v ČR  
