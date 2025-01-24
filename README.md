@@ -90,7 +90,6 @@ Agenda poslanců a osob, hlasování, sněmovní tisky, ústní interpelace,...
 [psp.cz](https://www.psp.cz/sqw/hp.sqw?k=1300)  
   
 **Veřejný rejstřík a sbírka listin**  
-Všeříkající  
 [dataor.justice.cz](https://dataor.justice.cz)  
   
 **Re3data**  
@@ -135,7 +134,7 @@ Princip PPDAC
   
 Jaké atributy má výzkumná otázka?  
 - **S**pecific  
-- **M**art  
+- **M**easurable  
 - **A**chievable  
 - **R**elevant  
 - **T**ime  
