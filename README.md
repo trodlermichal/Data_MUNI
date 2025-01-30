@@ -96,6 +96,14 @@ Agenda poslanců a osob, hlasování, sněmovní tisky, ústní interpelace,...
 Katalog repozitářů dat  
 [re3data.org](https://www.re3data.org)  
   
+**Reddit**  
+Komunita nadšenců do datasetů  
+[r/datasets](https://data.who.int)  
+  
+**Awesome Public Datasets**  
+Data od WHO, roční shrnutí  
+([github.com/awesomedata/](https://github.com/awesomedata/awesome-public-datasets))  
+  
 **WHO**  
 Data od WHO, roční shrnutí  
 [data.who.int](https://data.who.int)  
@@ -149,3 +157,43 @@ Zpracování dat
 - Explorace - interakce, manipulace, grafy, hledání vztahů a trendů  
 - Odpovědi - porovnání s otázkou, reflexe očekávání  
 - Komunikace - předání informace, vhodné grafy, prezentace  
+  
+---  
+  
+### 06 Vizualizace dat  
+Data musí být relevantní, grafy čitelné, zobrazené údaje důležité a nezkreslené  
+  
+**Data Visualisation Catalogue**  
+Katalog typů grafů a vizualizací  
+[datavizcatalogue.com](https://datavizcatalogue.com)  
+  
+**DataWrapper**  
+Placená služba k vytváření krásných a funkčních grafů (využívá i Seznam.cz)  
+[datawrapper.de](https://www.datawrapper.de)  
+  
+**RAWGraphs**  
+Opensource drag-n-drop nástroj na vytváření grafů.  
+[rawgraphs.io](https://www.rawgraphs.io/)  
+  
+**Color Oracle**  
+Nástroj pro kontrolu barevného schématu simulací barvosleposti  
+[colororacle.org](https://colororacle.org)  
+  
+**Data Visualisations**  
+1 Dataset - 100 Visualisations  
+[100.datavizproject.com](https://100.datavizproject.com)  
+  
+**Data Viz Project**  
+Data visualisation project  
+[datavizproject.org](https://datavizproject.com)  
+  
+**Data To Viz**  
+Diagram podle typu dat, jaký graf je vhodný  
+[data-to-viz.com](https://www.data-to-viz.com)  
+https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
+  
+---  
+  
+### 09 Prezentace dat  
+
+  
