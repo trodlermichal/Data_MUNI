@@ -192,10 +192,15 @@ Data visualisation project
 **Data To Viz**  
 Diagram podle typu dat, jaký graf je vhodný  
 [data-to-viz.com](https://www.data-to-viz.com)  
-https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
   
 ---  
   
 ### 09 Prezentace dat  
-
   
+**TED - Hans Rosling**  
+The best stats you've ever seen  
+[ted.com](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen))  
+
+**Infogram AI**  
+AI nástroj na vytváření grafů a infografiky
+[https://infogram.com](https://infogram.com)  
